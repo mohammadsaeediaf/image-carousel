@@ -1,2 +1,3 @@
 # image-carousel
 bacgkround changer project allows you to change your section background, body background and more...
+-also if you learn this course you will be able to create dark mode on your website.
